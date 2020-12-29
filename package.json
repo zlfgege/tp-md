@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"docsify serve docs",
+    "start": "docsify serve docs",
     "add": "npx git-cz"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "docsify-cli": "^4.4.2"
+  },
+  "devDependencies": {
+    "git-cz": "^4.7.6"
   }
 }
