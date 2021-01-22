@@ -53,7 +53,7 @@
 
 ## app 提供SDK方法 
 
-可参考这个http://wxtest.life.cntaiping.com/tpbb/docs/develop/jsbridge.html#api
+第3方提供文档http://wxtest.life.cntaiping.com/tpbb/docs/develop/jsbridge.html#api
 
 进不去想要先本地登录微商城 http://wxtest.life.cntaiping.com/tpbb/app-login/login?unionId=ooTTjvqfe7OTGeex18l1Oa0gRrYw
 
